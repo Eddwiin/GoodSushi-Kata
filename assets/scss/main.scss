@@ -1,5 +1,16 @@
-$color-test: blue;
+@use "abstracts/variables";
+@use "abstracts/functions";
+@use "abstracts/mixins";
 
-.title {
-  color: $color-test;
+@use "base/base";
+
+@use "components/button";
+@use "components/card";
+@use "components/select";
+
+@use "layout/header";
+@use "layout/footer";
+
+:root {
+  --good-sushi-blue: blue;
 }

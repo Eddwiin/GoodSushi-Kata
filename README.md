@@ -18,7 +18,7 @@ run the following command:
 npm install
 ```
 
-To launch the application, run the command :: 
+To launch the application, run the command : 
 
 ```bash
 npm start
@@ -42,3 +42,7 @@ npm start
 - [Udemy Course](https://www.udemy.com/course/advanced-css-and-sass/)
 - [Mobile First](https://www.interaction-design.org/literature/topics/mobile-first)
 - [BEM notation](https://alticreation.com/blog/bem-pour-le-css/)
+
+# Bonus
+
+- Check if the css is support to 
