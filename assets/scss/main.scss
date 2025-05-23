@@ -3,6 +3,7 @@
 @use "abstracts/mixins";
 
 @use "base/base";
+@use "base/typography";
 
 @use "components/button";
 @use "components/card";
@@ -10,7 +11,10 @@
 
 @use "layout/header";
 @use "layout/footer";
+@use "layout/navigation";
 
 :root {
-  --good-sushi-blue: blue;
+  --primary-red: #BC002D;
+  --primary-black: #1A1A1A;
+
 }

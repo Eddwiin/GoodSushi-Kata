@@ -26,11 +26,34 @@ npm start
 
 ### Business Rules
 
-- You must adhere to the design mockups provided by us (GoodSushi)
 - Our users can use several devices to consult our offers. The site must be responsive on mobile, tablets and computers.
 - We also have users with different browsers. The elements of the site must adapt to these different browsers.
-- Some users are sensitive to brightness. We want to offer them a dark mode
+- Some users are sensitive to brightness. We want to offer them a dark mode (Bonus)
 - We're not sure about our graphic charter yet. You need to make the site flexible enough to change colors quickly in the future.
+
+### Exercise
+- For mobile device:
+  * In the header, add logo in the left side
+  * In the header, let burger menu in the right side
+  * In the main, display one card by line
+
+
+- For tablet device:
+  - In the header, add logo in the left side
+  - In the header, hide burger menu and add contact us logo and log in logo in the right (see on images folder)
+  - In the main, display two cards by line
+
+
+- For desktop:
+    - In the header, add logo in the left side
+    - In the header, hide burger menu and add contact us logo and log in logo in the right (see on images folder)
+    - In the main, display four cards by line
+
+
+- For big desktop:
+    - In the header, add logo in the left side
+    - In the header, add contact us logo and log in logo in the right (see on images folder)
+    - In the main, display six cards by line
 
 ### Exercise Constraints
 
@@ -42,7 +65,3 @@ npm start
 - [Udemy Course](https://www.udemy.com/course/advanced-css-and-sass/)
 - [Mobile First](https://www.interaction-design.org/literature/topics/mobile-first)
 - [BEM notation](https://alticreation.com/blog/bem-pour-le-css/)
-
-# Bonus
-
-- Check if the css is support to 

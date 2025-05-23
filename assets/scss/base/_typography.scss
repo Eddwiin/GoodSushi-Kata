@@ -1,0 +1,10 @@
+@use './../abstracts/variables' as *;
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.7;
+  color: $good-sushi-primary-black;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,13 @@
+@use './../abstracts/variables' as *;
+@use './../abstracts/mixins' as *;
+
+.header {
+  height: 7vh;
+  background-color: $good-sushi-primary-red;
+
+  &__logo {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: system-ui sans-serif;
+  }
+}
